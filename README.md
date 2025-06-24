@@ -3,9 +3,9 @@
 Этот проект представляет собой интеллектуального ассистента, созданного специально для репетиторов английского языка. Он помогает вести осмысленные диалоги с учениками, отвечать на вопросы по базе знаний и упрощать процесс записи на занятия.
 
 ссылка на проект - @obudan_bot
-![Иллюстрация к проекту](https://github.com/AlexanderBudan/ai_postrigalka/blob/main/%D0%91%D0%9E%D0%A2_1.png)
-![Иллюстрация к проекту](https://github.com/AlexanderBudan/ai_postrigalka/blob/main/%D0%91%D0%9E%D0%A22.png?raw=true)
-![Иллюстрация к проекту](https://github.com/AlexanderBudan/ai_postrigalka/blob/main/%D0%91%D0%9E%D0%A23.png?raw=true)
+![Скриншот1 к проекту](https://github.com/AlexanderBudan/ai_postrigalka/blob/main/%D0%91%D0%9E%D0%A2_1.png)
+![Скриншот2 к проекту](https://github.com/AlexanderBudan/ai_postrigalka/blob/main/%D0%91%D0%9E%D0%A22.png?raw=true)
+![Скриншот3 к проекту](https://github.com/AlexanderBudan/ai_postrigalka/blob/main/%D0%91%D0%9E%D0%A23.png?raw=true)
 ## Оглавление
 
 1. [Описание Проекта](#описание-проекта)
