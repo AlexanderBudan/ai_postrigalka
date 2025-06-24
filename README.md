@@ -4,7 +4,6 @@
 
 ссылка на проект - @obudan_bot
 
-![Иллюстрация к проекту](https://github.com/AlexanderBudan/ai_postrigalka/blob/main/%D0%91%D0%9E%D0%A21.png)
 
 
 ## Оглавление
