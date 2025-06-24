@@ -5,7 +5,7 @@
 ссылка на проект - @obudan_bot
 ![Иллюстрация к проекту](https://github.com/AlexanderBudan/ai_postrigalka/blob/main/%D0%91%D0%9E%D0%A2_1.png)
 ![Иллюстрация к проекту](https://github.com/AlexanderBudan/ai_postrigalka/blob/main/%D0%91%D0%9E%D0%A22.png?raw=true)
-
+![Иллюстрация к проекту](https://github.com/AlexanderBudan/ai_postrigalka/blob/main/%D0%91%D0%9E%D0%A23.png?raw=true)
 ## Оглавление
 
 1. [Описание Проекта](#описание-проекта)
